@@ -21,6 +21,7 @@ function setup(){
   
 // Moving background
 garden=createSprite(200,200);
+  
 garden.addImage(gardenImg);
 
 
